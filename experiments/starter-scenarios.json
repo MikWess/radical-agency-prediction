@@ -1,8 +1,0 @@
-[
-  {"id":"demo-01","scenario":"A prototype works but looks unfinished. You have one free hour before showing it to a potential user.","options":{"A":"Polish the appearance","B":"Test the core task and fix blockers","C":"Delay the demo"}},
-  {"id":"demo-02","scenario":"Two people request opposite features. You can investigate one thing before choosing what to build.","options":{"A":"Ask which feature more people want","B":"Observe the task each person is trying to complete","C":"Build the cheaper feature first"}},
-  {"id":"demo-03","scenario":"A new project is exciting, but finishing an existing commitment will take the entire weekend.","options":{"A":"Finish the commitment","B":"Negotiate a smaller commitment","C":"Start the new project"}},
-  {"id":"demo-04","scenario":"A tool can finish a learning exercise immediately, but you cannot yet explain the underlying concept.","options":{"A":"Use the result and move on","B":"Ask for a walkthrough, then try independently","C":"Solve it without the tool"}},
-  {"id":"demo-05","scenario":"A collaborator proposes a plan you think will fail. The team is enthusiastic and time is short.","options":{"A":"Raise the concern immediately","B":"Suggest a quick test of the uncertain assumption","C":"Support the plan and revisit later"}},
-  {"id":"demo-06","scenario":"You can choose a familiar task with a reliable result or an unfamiliar task with uncertain upside.","options":{"A":"Choose the familiar task","B":"Choose the unfamiliar task","C":"Need more context before deciding"}}
-]
